@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Banco do Brasil
+- 🔭 I'm a Computer Engineer, that has been working as a Front-End developer since 2020.
+- 👨‍💻 I’m currently working on Banco do Brasil
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: 
+- 👨‍🔧 Sharing a little of my Front-End journey at [@joaogui.gomes](https://www.instagram.com/joaogui.gomes) 
 
 <!--
 **joaogrgomes/joaogrgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
